@@ -8,7 +8,9 @@ Course repository for Python in Life Sciences Spring 2026
 ---
 This repository contains all course material, including lectures, sample code, and exercises.
 
-The files are organised per day and will be updated accordingly.
+Information about exam and installation requirements can be found here: https://github.com/Bioinformatics-teaching-UiT/Python_2026/tree/main/Course_information
+
+The files are organised per day and will be updated accordingly. The links are not active yet.
 
 
 ### Schedule Overview
