@@ -1,0 +1,32 @@
+"""
+Calculate the GC content of the following sequences:
+"""
+
+
+sequence1 = 'GCGATACGTCGCGCTAGGGCCCATATTATAACGCGCTAGGCTATCGATTTATATATCGCGCGCGGGGGGCCAATATAAAAATCCCATTCCGGGG'
+sequence2 = 'ATATAAAACCCGGGGAACGATTATCGACGCCGACTACACTACGATCGAGCGATCATTATATCGCAACACACAATATAAAAAAATTTCGCGC'
+sequence3 = 'ATATATATTTTATTATATTTATATATTATATATATTATAAAAAAAAAAATTTATATATATAT'
+sequence4 = 'GGGGGGGGGGCCGCCCCCCCCCGCGGCCCCCCCCCCCCCCGCGCGCGGGGGCGGCGCGGGGGGCCC'
+
+#### Count occurences of G and C
+#### with for-loop
+
+
+
+#### with str.count() method
+
+
+#### with if-else
+        
+        
+
+
+   
+
+        
+
+        
+    
+
+
+              
