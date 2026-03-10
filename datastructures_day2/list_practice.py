@@ -22,7 +22,7 @@ Write your lines of code under each comment.
 
 
 # here is a list, can you print out how many times 'dog' occurs?
-
+animals = ['cat', 'rat', 'mouse', 'dog', 'giraffe', 'dog']
 
 # insert a moose at the first position of the animals list
 
