@@ -25,6 +25,6 @@ _week 2_
 - **[Day 6](functions_modules_day6)**: Functions, code structure, modules, classes
 - **[Day 7](jupyter_pandas_day8)**: Jupyter, intro to data science with Pandas, Numpy, Scipy
 - **[Day 8](plotting_day7)**: lotting day using [Vega-Altair](https://altair-viz.github.io/) and a bit of [Matplotlib](https://matplotlib.org/)
-- **[Day 9](plotting_day9/README.md)**:Project work
-- **[Day 10](final_day10)**: Project work
+- **[Day 9]**:Project work
+- **[Day 10]**: Project work
 
