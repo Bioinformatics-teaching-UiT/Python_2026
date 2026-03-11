@@ -12,6 +12,7 @@ Information about exam and installation requirements can be found here: https://
 
 The files are organised per day and will be updated accordingly. The links are not active yet.
 
+For help and information on Python stnadard variables, function and methods see: **https://www.w3schools.com/python/default.asp**
 
 ### Schedule Overview
 _week 1_
