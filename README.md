@@ -19,7 +19,12 @@ _week 1_
 - **[Day 2](datastructures_day2)**: Booleans, Data structures (dictionaries, lists, sets, tuples), Intro to If statements
 - **[Day 3](loops_day3)**: Program logic, Loops & Control flow (for, while, if/else), list comprehension
 - **[Day 4](fileIO_day4)**: File handling, file parsing, practice day with recap exercises
-- **[Day 5](review_day5)**: Review day, Regex, Rosalind exercises, recap
+- **[Day 5](review_day5)**: Review day, Regex, Rosalind exercises, recap 
+
+For Regex exercises use this page:  **https://regexone.com/**
+For Rosalind exercises use this page: **https://rosalind.info/problems/list-view/**
+
+
 
 _week 2_
 - **[Day 6](functions_modules_day6)**: Functions, code structure, modules, classes
