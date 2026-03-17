@@ -1,4 +1,7 @@
-# Day 7 Presentation: Python for Data Science
+class: gray-background, middle, inverse
+## Day 7
+# Python for Data Science
+Jørn Dietze (UiT ITA)
 
 ---
 
@@ -6,10 +9,13 @@
 * **Jupyter** - God of Thunder and Data Analysis 
     * Summarizing analysis and Code in a Notebook 
 * **NumPy** - All things highly efficient 
-* **Pandas** - Not bearly tables 
+    * Number crunching and fast math
+* **Pandas** - Not **bear**ly tables 
     * Fast and efficient table handling 
 * **SciPy** - Scientific Python, need I say more? 
     * All your Stats and Maths needs 
+* **Scripts** - The next step
+    * How to write more resuable code
 
 ---
 
@@ -62,7 +68,7 @@
 
 ---
 
-## What is a script and why should I write one?
+## What is a script and why use one?
 * Collection of functions and logic to run them without output
 * Writing functions organizes your workflow
 * They allow reusing code and increase reproducibility
