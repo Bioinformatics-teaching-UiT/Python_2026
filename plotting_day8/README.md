@@ -1,6 +1,6 @@
 # Plotting with Matplotlib, Vega-Altair and sharing plots and notebooks
 
-We will go through the folowing lecture material:
+We will go through the following lecture material:
 
 ### Plotting with Matplotlib:
 - https://aaltoscicomp.github.io/python-for-scicomp/plotting-matplotlib/
