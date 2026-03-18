@@ -18,3 +18,7 @@ We will go through the folowing lecture material:
 - Slides: https://cicero.xyz/v3/remark/0.14.0/github.com/uit-no/rse-presentations/main/rse-intro-short.md/#1
 - PhD course lecture material: https://fys-8805-collaborative-coding.github.io/lecture-material/
 - Nordic RSE conference at UiT: https://nordic-rse.org/nrse2026/
+
+
+> [!TIP]
+> If you are interested in the PhD course, the RSE conference at UiT or anything else, feel free to reach out to the RSE group: rse@uit.no
